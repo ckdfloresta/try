@@ -1,0 +1,8 @@
+repositories {
+    maven { url 'http://mobile-sdk.jumio.com' }
+    maven { url 'https://maven.google.com/' }
+}
+
+ext {
+    SDK_VERSION = "3.3.1"
+}
